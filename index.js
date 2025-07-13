@@ -59,10 +59,10 @@ app.get('/sort', async (req, res) => {
 app.get('/check', async (req, res) => {
   
   const endpoints = [
-    "https://min-api-2.glitch.me",
+    "https://min-tube2-api.vercel.app",
     "https://min-tube-api-3.vercel.app",
     "https://min-tube-api4.vercel.app",
-    "https://server-min2-ok-6.glitch.me",
+    "https://server-minp.vercel.app",
     "https://min-tube-api5.vercel.app"
   ];
 
